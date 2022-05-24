@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sh-yco-001
-- 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning Web development
+- 👀 I’m interested in Web Development, Software Development, etc.
+- 🌱 I’m currently learning Full-Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
